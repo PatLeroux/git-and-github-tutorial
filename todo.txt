@@ -7,4 +7,5 @@ MY TO-DO LIST
 5. Visit aunt.
 6. Apply for remote jobs.
 7. aspirateur
-8. Whisky 
+8. Whisky
+9. testing git
